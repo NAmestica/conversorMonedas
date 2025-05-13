@@ -18,7 +18,7 @@ El proyecto es un desafío propuesto por Alura Latam.
 <ol>
   <li>Java, lenguaje de programación.</li>
   <li>IDE compatible con el lenguaje de Java.</li>
-  <li>ExchangeRate-API, cambio de monedas.</li>
+  <li>ExchangeRate-API, API que se encarga del cambio de monedas.</li>
   <li>Gson, libreria externa de java.</li>
 </ol>
 <h2>Características</h2>
