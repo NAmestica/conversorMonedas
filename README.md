@@ -1,6 +1,6 @@
 <h1>Conversor de Monedas en Java</h1>
 <p>
-  El proyecto es una aplicación en consola desarrollada con el lenguaje de programción Java, que nos permite convertir monedas de diferente paises. Se utiliza una API externa la cual se trata de ExchangeRate-API que nos permite realizar los cambios más cercano y en conjunto a la biblioteca Gson podemos guardarlos archivos JSON.
+  El proyecto es una aplicación en consola desarrollada con el lenguaje de programción Java, que nos permite convertir monedas de diferente paises. Se utiliza una API externa la cual se trata de ExchangeRate-API que nos permite realizar los cambios más cercano y en conjunto a la biblioteca Gson podemos extraer o guardar informacion en los archivos JSON.
 
 El proyecto es un desafío propuesto por Alura Latam.
 </p>
